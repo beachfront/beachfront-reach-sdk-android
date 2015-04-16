@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BFReachSDK Sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="embeded_id">11a7f5f1-e440-4023-e942-ed394141c212</string>
+
+</resources>
